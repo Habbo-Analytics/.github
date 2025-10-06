@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/images/habbo+analytics.gif" width="300" alt="habbo analytics">
+<img src="../assets/images/habbo+analytics.gif" width="400" alt="habbo analytics">
 
 **Enterprise-Grade Analytics for the Habbo Hotel Ecosystem**
 
