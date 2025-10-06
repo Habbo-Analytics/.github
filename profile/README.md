@@ -1,8 +1,8 @@
-# Habbo Analytics 🏰  
+<div align="center">
+
+<img src="../assets/images/habbo+analytics.gif" width="300" alt="habbo analytics">
 
 **Enterprise-Grade Analytics for the Habbo Hotel Ecosystem**
-
-<div align="center">
 
 [![Website](https://img.shields.io/badge/Website-habbo.habboanalytics.com-blue?style=for-the-badge)](https://habbo.habboanalytics.com)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/habboanalytics)
