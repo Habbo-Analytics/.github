@@ -1,4 +1,5 @@
 # Habbo Analytics 🏰  
+
 **Enterprise-Grade Analytics for the Habbo Hotel Ecosystem**
 
 <div align="center">
@@ -41,24 +42,28 @@ Our platform delivers **enterprise-grade** analytics with a focus on **performan
 Habbo Analytics provides a **modern, web-based dashboard** that aggregates and visualizes data from Habbo's public APIs and community endpoints. Our mission is to deliver:
 
 ### **For Community Managers**
+
 - 📈 Track user engagement and retention metrics
 - 🎭 Monitor event participation and room activity
 - 👥 Understand demographic trends and user behavior
 - 📊 Generate comprehensive reports for stakeholders
 
 ### **For Hotel Owners**
+
 - 💰 Analyze economy trends and marketplace dynamics
 - 🏆 Benchmark performance against other hotels
 - 📉 Identify growth opportunities and bottlenecks
 - 🔍 Gain competitive intelligence
 
 ### **For Developers**
+
 - 🔌 Access well-documented APIs
 - 📖 Learn from production-grade code examples
 - 🛠️ Integrate analytics into your own tools
 - 🤖 Build custom dashboards and visualizations
 
 ### **For Data Analysts**
+
 - 📊 Export data in multiple formats (CSV, JSON, PDF)
 - 📈 Create custom reports and visualizations
 - 🔬 Perform deep-dive analysis on user patterns
@@ -73,6 +78,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 <td width="50%">
 
 ### 🎨 **Beautiful Dashboards**
+
 - Real-time data visualization
 - Customizable widgets and layouts
 - Interactive charts and graphs
@@ -80,6 +86,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 - Dark/Light theme support
 
 ### 📊 **Comprehensive Analytics**
+
 - User demographics and activity
 - Economy and marketplace tracking
 - Room and event analytics
@@ -87,6 +94,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 - Cross-hotel comparisons
 
 ### 🔐 **Enterprise Security**
+
 - JWT-based authentication
 - Role-based access control (RBAC)
 - Encrypted data transmission
@@ -97,6 +105,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 <td width="50%">
 
 ### ⚡ **High Performance**
+
 - Sub-second query responses
 - Redis caching layer
 - Optimized database queries
@@ -104,6 +113,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 - Progressive Web App (PWA)
 
 ### 🌍 **Multi-Hotel Support**
+
 - 9 Habbo hotels supported
 - Unified data aggregation
 - Cross-hotel analytics
@@ -111,6 +121,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 - Comparative benchmarking
 
 ### 🔌 **Developer Friendly**
+
 - RESTful API architecture
 - Comprehensive documentation
 - Swagger/OpenAPI specs
@@ -172,6 +183,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 ## 📊 Analytics Modules
 
 ### 🔹 **User & Demographics Analytics**
+
 ```typescript
 - Registration trends by hotel/region
 - Daily/Monthly Active Users (DAU/MAU)
@@ -182,6 +194,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 ```
 
 ### 🔹 **Economy & Marketplace Intelligence**
+
 ```typescript
 - Furni price history and trends
 - Trade volume tracking
@@ -192,6 +205,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 ```
 
 ### 🔹 **Room & Event Analytics**
+
 ```typescript
 - Most visited rooms ranking
 - Event participation metrics
@@ -202,6 +216,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 ```
 
 ### 🔹 **Community Metrics**
+
 ```typescript
 - Group growth and engagement
 - Badge ownership distribution
@@ -212,6 +227,7 @@ Habbo Analytics provides a **modern, web-based dashboard** that aggregates and v
 ```
 
 ### 🔹 **API & System Monitoring**
+
 ```typescript
 - API latency dashboards
 - Uptime monitoring
@@ -373,6 +389,7 @@ We welcome contributions from the community! Here's how you can help:
 <td width="33%" align="center">
 
 ### 📖 **User Guides**
+
 Complete tutorials for<br>using the platform
 
 [Read Guides →](https://docs.habboanalytics.com/guides)
@@ -381,6 +398,7 @@ Complete tutorials for<br>using the platform
 <td width="33%" align="center">
 
 ### 🔌 **API Reference**
+
 Comprehensive API<br>documentation
 
 [View API Docs →](https://docs.habboanalytics.com/api)
@@ -389,6 +407,7 @@ Comprehensive API<br>documentation
 <td width="33%" align="center">
 
 ### 💻 **Developer Docs**
+
 Integration guides and<br>code examples
 
 [Developer Portal →](https://docs.habboanalytics.com/developers)
@@ -449,9 +468,11 @@ We'll respond within 48 hours and work with you to resolve the issue.
 ## 📜 License
 
 ### **Public Repositories**
+
 Open-source repositories are licensed under the **MIT License** unless otherwise specified.
 
 ### **Private Repositories & Platform**
+
 ```
 Copyright © 2025 Habbo Analytics
 All rights reserved.
@@ -471,15 +492,17 @@ is prohibited without prior written consent from the organization.
 <td width="50%">
 
 ### 📧 **Email**
-- **General:** support@habboanalytics.com
-- **Security:** security@habboanalytics.com
-- **Privacy:** privacy@habboanalytics.com
-- **Business:** business@habboanalytics.com
+
+- **General:** <support@habboanalytics.com>
+- **Security:** <security@habboanalytics.com>
+- **Privacy:** <privacy@habboanalytics.com>
+- **Business:** <business@habboanalytics.com>
 
 </td>
 <td width="50%">
 
 ### 🌐 **Links**
+
 - **Website:** [habbo.habboanalytics.com](https://habbo.habboanalytics.com)
 - **Documentation:** [docs.habboanalytics.com](https://docs.habboanalytics.com)
 - **Status:** [status.habboanalytics.com](https://status.habboanalytics.com)
@@ -517,6 +540,7 @@ is prohibited without prior written consent from the organization.
 Built with ❤️ by the Habbo Analytics Team
 
 **Special Thanks To:**
+
 - The Habbo community for continuous feedback
 - Open-source contributors and maintainers
 - Our beta testers and early adopters
@@ -526,7 +550,7 @@ Built with ❤️ by the Habbo Analytics Team
 
 <div align="center">
 
-### ⭐ Star our repositories if you find them useful!
+### ⭐ Star our repositories if you find them useful
 
 **Made with 💙 for the Habbo community**
 
